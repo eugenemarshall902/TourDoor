@@ -45,7 +45,7 @@ const Contact = ({images}) => {
       </div>
 
       <main>
-      <h1>联系我们</h1>
+      <h1><a href="/release.zip" download>联系我们</a></h1>
       <p style={{ whiteSpace: 'pre-line' }}>
         发现中国美为全球最值得信赖华人旅游品牌，仅接受旅行社同业咨询和报名。 
         全球客人報名請洽您所在地区城市信任的旅行社。
